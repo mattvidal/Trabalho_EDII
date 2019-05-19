@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558225406 source:/home/matheus/Documentos/Code Blocks/TrabalhoAV1_Complexidade/main.c
+	"func.h"
+
+1557623330 /home/matheus/Documentos/Code Blocks/TrabalhoAV1_Complexidade/func.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1558216616 source:/home/matheus/Documentos/Code Blocks/TrabalhoAV1_Complexidade/func.c
+	"func.h"
+
