@@ -109,4 +109,5 @@ void main(void)
     }
 
     printf("Dados salvos no arquivo com sucesso!\n");
+    printf("Por favor, verifique o arquivo gerado.\n");
 }

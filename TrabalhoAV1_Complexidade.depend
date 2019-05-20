@@ -11,3 +11,15 @@
 1558216616 source:/home/matheus/Documentos/Code Blocks/TrabalhoAV1_Complexidade/func.c
 	"func.h"
 
+1558216616 source:/home/matheus/Documentos/Trabalho_EDII/func.c
+	"func.h"
+
+1558299329 /home/matheus/Documentos/Trabalho_EDII/func.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1558225439 source:/home/matheus/Documentos/Trabalho_EDII/main.c
+	"func.h"
+

@@ -18,5 +18,16 @@ typedef struct _sequencia
 typedef long time_t;
 typedef long clock_t;
 
+void MallocaSequencia(int** vetor, int tamanho);
+
+void PreencheSequencia(TipoSequencia* seq, int tamanho, int tipo);
+
+void MinMax1(int *vet, int *min, int *max, int tamanho, int* comparacoes);
+
+void MinMax2(int *vet, int *min, int *max, int tamanho, int* comparacoes);
+
+void MinMax3(int *vet, int *min, int *max, int tamanho, int* comparacoes);
+
+
 
 #endif // FUNC_H_INCLUDED
